@@ -1,7 +1,7 @@
 # ProjectOne
-##Project Description
+<h2>Project Description</h2>
 Hive Queries on Structured Data
-##Technology Stack
+<h2>Technology Stack</h2>
 *Hive
 *Hadoop
 *DBeaver
