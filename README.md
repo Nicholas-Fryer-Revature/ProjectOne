@@ -7,3 +7,5 @@ Hive Queries on Structured Data
 <li>Hadoop</li>
 <li>DBeaver</li>
 </ul>
+<h2>Presentation</h2>
+https://docs.google.com/presentation/d/1PT7feOPw9IEsXmB1xRAH1C2QQhSKPYuVvkxJhFVUvII/edit?usp=sharing
